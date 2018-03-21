@@ -1,12 +1,7 @@
 import java.util.Date;
 
 public class WorkshopAplication {
-	//Product information
-	private int codProd;
-	private String prodDescription;
-	private double prodprice;
-	private int prodStock;
-	
+	private Product product1 = new Product();
 	//Client information
 	private int codCli;
 	private String cliDNI;
