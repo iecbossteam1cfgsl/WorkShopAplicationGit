@@ -9,6 +9,7 @@ public class Principal {
 		doMinus();
 		doMultiply();
 		System.out.println("Funcionaaaaa iecbossteam1cfgsl");
+		System.out.println("Sigue funcionandoooooooo iecbossteam1cfgsl");
 		
 	}
 
