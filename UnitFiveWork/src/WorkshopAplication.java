@@ -6,6 +6,6 @@ public class WorkshopAplication {
 	private Client client1 = new Client();
 	private Invoice invoice1 = new Invoice();
 
-	private WorkshopAplicationData data = new WorkshopAplicationData();
+	private InvoiceLine data = new InvoiceLine();
 	
 }
