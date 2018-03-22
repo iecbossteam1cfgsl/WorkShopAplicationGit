@@ -5,6 +5,18 @@ public class Principal {
 		showWellcome();
 
 		doOperationAdd();
+		
+		doMinus();
+		
+	}
+
+	/**
+	 * 
+	 */
+	private static void doMinus() {
+		int a=1;
+		int b=2;
+		int result=a-b;
 	}
 
 	/**
