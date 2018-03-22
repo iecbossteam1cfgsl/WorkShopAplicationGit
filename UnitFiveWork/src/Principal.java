@@ -7,7 +7,17 @@ public class Principal {
 		doOperationAdd();
 		
 		doMinus();
+	 doMultiply();
 		
+	}
+
+	/**
+	 * 
+	 */
+	private static int doMultiply() {
+		int a=1;
+		int b=2;
+		return a*b;
 	}
 
 	/**
