@@ -7,7 +7,8 @@ public class Principal {
 		doOperationAdd();
 		
 		doMinus();
-	 doMultiply();
+		doMultiply();
+		System.out.println("Funcionaaaaa iecbossteam1cfgsl");
 		
 	}
 
