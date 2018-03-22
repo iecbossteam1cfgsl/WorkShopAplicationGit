@@ -19,6 +19,7 @@ public class Principal {
 		int a=1;
 		int b=2;
 		int result=a/b;
+		System.out.println("it works from iecprog1teamcfgsl");
 	}
 
 	/**
