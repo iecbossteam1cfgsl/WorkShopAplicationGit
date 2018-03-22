@@ -7,8 +7,18 @@ public class Principal {
 		doOperationAdd();
 		
 		doMinus();
-	 doMultiply();
+	    doMultiply();
+	 	doDivide();
 		
+	}
+
+	/**
+	 * 
+	 */
+	private static void doDivide() {
+		int a=1;
+		int b=2;
+		int result=a/b;
 	}
 
 	/**
@@ -28,6 +38,7 @@ public class Principal {
 		int b=2;
 		int result=a-b;
 	}
+	
 
 	/**
 	 * @return TODO
