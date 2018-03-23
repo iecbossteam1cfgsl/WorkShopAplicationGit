@@ -16,7 +16,7 @@ public class Principal {
 		System.out.println("Linea de factura--------->3");
 		System.out.println("Calcular importe--------->4");
 		System.out.println("Salir-------------------->5");
-		System.out.println("**********************Menu ****************");
+		System.out.println("!!!!!!!!!!Menu!!!!!!!!!!!!!");
 	}
 
 	
